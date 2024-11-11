@@ -1,4 +1,4 @@
-# indoor-localization
+# OMS Indoor Localization Activity
 
 DO NOT PUSH TO THIS REPO UNLESS YOU ARE A MUC TA/INSTRUCTOR.
 
